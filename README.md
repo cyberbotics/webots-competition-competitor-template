@@ -31,7 +31,5 @@ git push
 ```
 
 ## See preview
-Once the changes are pushed it is usefull to verify whether your controller works properly in the competition.
-The Webots GitHub action generates a preview of the competition and publishes it to the `gh-pages` branch.
-Therefore, you have to choose the `gh-pages` branch [as the publishing source](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
-Then, you can access the preview at `[your_username].github.io/[your_repo_name]`.
+Once your changes are pushed, the Webots GitHub action runs the competition and publishes the result at https://cyberbotics.github.io/webots-competition-organizer-template/
+It takes a few minutes (possibly hours if the simulation is complex) for running the simulation.
