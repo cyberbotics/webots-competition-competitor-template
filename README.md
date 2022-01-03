@@ -35,4 +35,4 @@ git push
 
 Once your changes are pushed, the Webots GitHub action runs the competition and publishes the result at https://cyberbotics.github.io/webots-competition-organizer-template/.
 
-It takes a few minutes (possibly hours if the simulation is complex) for running the simulation.
+**Note**: It takes a few minutes (possibly hours if the simulation is complex) for running the simulation.
