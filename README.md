@@ -5,7 +5,7 @@
 ## Register
 - Make a new repository out of [the template](https://github.com/cyberbotics/webots-competition-organizer-template/generate).
 - Add `lukicdarkoo` to [Manage access](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-teams-and-people-with-access-to-your-repository#inviting-a-team-or-person) section so the [organizer](https://github.com/lukicdarkoo-bot) can clone your private repository.
-- Add your repository to [competitors.txt](https://github.com/cyberbotics/webots-competition-organizer-template/edit/main/competitors.txt).
+- Add your repository to [competitors.txt](https://github.com/cyberbotics/webots-competition-organizer-template/edit/master/competitors.txt).
 
 ## Develop
 
